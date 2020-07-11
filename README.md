@@ -13,7 +13,9 @@
   * Rust
   * F#
   * Ruby
+  * Java
   * C++
+  * OCAML
   * Bash
   * Powershell
   * Scala
