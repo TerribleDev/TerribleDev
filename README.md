@@ -47,10 +47,10 @@ Other things I Know (In no particular order)...
 
 ## Friend Space (Top 8)
 
-
+|                    |
 |     :---:                        |
 |     Tom                          |
-|     ![A photo of tom](https://dropmain.blob.core.windows.net/main/tom.jpg)   |
+|     ![A photo of tom from myspace](https://dropmain.blob.core.windows.net/main/tom.jpg) |
 
 
 
