@@ -1,6 +1,6 @@
 ## Myspace
 
-👋 Hi, I'm a Principal Engineer @ [quala.io](https://www.quala.io/). I was inspired to start coding when I realized profiles on Myspace could be themed with css and HTML. I spent quite a few years writing C# and I made some cool open sourced projects for C#. Like everyone who gets old, I now spend a lot more time focusing on my career, my life, and my mental health. Recently my team at CarGurus have been building some [webpack plugins in rust](https://github.com/cargurus/webpack-hash-cache). I mostly [blog](https://terrible.dev/) about web performance. My big passions include performance tuning, Functional Programming, Infrastructure as Code, and anything web related.
+👋 Hi, I'm a Principal Engineer @ [quala.io](https://www.quala.io/). I was inspired to start coding when I realized profiles on Myspace could be themed with css and HTML. I spent quite a few years writing C# and I made some cool open sourced projects for C#. Like everyone who gets old, I now spend a lot more time focusing on my career, my life, and my mental health. I mostly [blog](https://terrible.dev/) about web performance. My big passions include performance tuning, Functional Programming, Infrastructure as Code, and anything web related.
 
 * Principal Engineer @ [quala.io](https://www.quala.io/)
 * Programming languages (In some general order of how well I know them)
