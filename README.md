@@ -1,8 +1,8 @@
 ## Myspace
 
-👋 Hi, I'm a Principal Engineer @ [Hi Marley](https://www.himarley.com/). I was inspired to start coding when I realized profiles on Myspace could be themed with css and HTML. I spent quite a few years writing C# and I made some cool open sourced projects for C#. Like everyone who gets old, I now spend a lot more time focusing on my career, my life, and my mental health. I mostly [blog](https://terrible.dev/) about web performance. My big passions include performance tuning, Functional Programming, Infrastructure as Code, and anything web related.
+👋 Hi, I'm a Principal Engineer @ [Distill Cloud](www.distillcloud.com/). I was inspired to start coding when I realized profiles on Myspace could be themed with css and HTML. I spent quite a few years writing C# and I made some cool open sourced projects for C#. Like everyone who gets old, I now spend a lot more time focusing on my career, my life, and my mental health. I mostly [blog](https://terrible.dev/) about web performance. My big passions include performance tuning, Functional Programming, Infrastructure as Code, and anything web related.
 
-* Principal Engineer @ [Hi Marley](https://www.himarley.com/)
+* Principal Engineer @ [Distill Cloud](www.distillcloud.com/)
 * Programming languages (In some general order of how well I know them)
   * JavaScript
   * Typescript
